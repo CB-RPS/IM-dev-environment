@@ -4,8 +4,7 @@
       {
         "type": "Feature",
         "properties": { 
-            "state": "New South Wales",
-            "party": "Labor"
+            "state": "New South Wales"
          },
         "geometry": {
           "type": "Polygon",
@@ -15,8 +14,7 @@
       {
         "type": "Feature",
         "properties": { 
-            "state": "Victoria",
-            "party": "Labor"
+            "state": "Victoria"
         },
         "geometry": {
           "type": "Polygon",
@@ -26,8 +24,7 @@
       {
         "type": "Feature",
         "properties": { 
-            "state": "Queensland",
-            "party": "Labor"
+            "state": "Queensland"
         },
         "geometry": {
           "type": "Polygon",
@@ -37,8 +34,7 @@
       {
         "type": "Feature",
         "properties": { 
-            "state": "Western Australia",
-            "party": "Labor"
+            "state": "Western Australia"
         },
         "geometry": {
           "type": "Polygon",
@@ -48,8 +44,7 @@
       {
         "type": "Feature",
         "properties": { 
-            "state": "South Australia",
-            "party": "Labor"
+            "state": "South Australia"
         },
         "geometry": {
           "type": "Polygon",
@@ -59,8 +54,7 @@
       {
         "type": "Feature",
         "properties": { 
-            "state": "Tasmania",
-            "party": "Liberal"
+            "state": "Tasmania"
         },
         "geometry": {
           "type": "Polygon",
@@ -70,8 +64,7 @@
       {
         "type": "Feature",
         "properties": { 
-            "state": "Northern Territory",
-            "party": "Labor"
+            "state": "Northern Territory"
          },
         "geometry": {
           "type": "Polygon",
@@ -81,8 +74,7 @@
       {
         "type": "Feature",
         "properties": { 
-            "state": "Australian Capital Territory",
-            "party": "Labor"
+            "state": "Australian Capital Territory"
         },
         "geometry": {
           "type": "Polygon",
